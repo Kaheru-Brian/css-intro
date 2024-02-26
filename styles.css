@@ -1,0 +1,17 @@
+#second-id {
+    color: rgb(202, 106, 28);
+    font-size: 20px;
+
+    font-style: italic;
+  }
+  #first-id {
+    color: tomato;
+    padding-left: 2px;
+    border: 1px solid peru;
+    text-align: center;
+  }
+  .manu {
+    background-color: aqua;
+    background-image: ;
+  }
+ 
